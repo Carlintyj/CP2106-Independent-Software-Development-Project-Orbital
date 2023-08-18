@@ -51,5 +51,5 @@ A **FireBase server** that will share a common database across all platforms whi
 <img width="534" alt="Screenshot 2023-08-18 at 3 19 21 PM" src="https://github.com/Carlintyj/CP2106-Independent-Software-Development-Project-Orbital/assets/102083899/a2cd7bbd-3b0a-43b3-80c1-bda22bbce6cb">
 <img width="529" alt="Screenshot 2023-08-18 at 3 19 29 PM" src="https://github.com/Carlintyj/CP2106-Independent-Software-Development-Project-Orbital/assets/102083899/e3b03e9b-d9fb-4ac3-a607-4d7c96f52f1f">
 
-## Snapshots of Firebase
+## Snapshot of Firebase
 <img width="501" alt="Screenshot 2023-08-18 at 3 26 10 PM" src="https://github.com/Carlintyj/CP2106-Independent-Software-Development-Project-Orbital/assets/102083899/06f32a28-fa7f-4253-b1ea-acd2027b14ba">
