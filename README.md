@@ -32,4 +32,24 @@ A **FireBase server** that will share a common database across all platforms whi
 ### 1. User Account Authentication
 <img width="620" alt="Screenshot 2023-08-18 at 3 16 04 PM" src="https://github.com/Carlintyj/CP2106-Independent-Software-Development-Project-Orbital/assets/102083899/03a9bfda-453b-4a22-bd76-f7f1411d7bf0">
 
+### 2. Booking System
+<img width="623" alt="Screenshot 2023-08-18 at 3 16 26 PM" src="https://github.com/Carlintyj/CP2106-Independent-Software-Development-Project-Orbital/assets/102083899/1566dbb6-b34f-4f55-80f8-276ed9f76132">
+<img width="620" alt="Screenshot 2023-08-18 at 3 16 33 PM" src="https://github.com/Carlintyj/CP2106-Independent-Software-Development-Project-Orbital/assets/102083899/58a52363-e9f8-41ff-b28c-01b1ba65e07e">
+<img width="626" alt="Screenshot 2023-08-18 at 3 16 40 PM" src="https://github.com/Carlintyj/CP2106-Independent-Software-Development-Project-Orbital/assets/102083899/0e400bd6-ada8-49a6-b9dc-80a8fe6c830c">
+<img width="624" alt="Screenshot 2023-08-18 at 3 16 45 PM" src="https://github.com/Carlintyj/CP2106-Independent-Software-Development-Project-Orbital/assets/102083899/b39f9835-ceee-4c13-8a3f-746db9ca4d96">
 
+### 3. QR Code Scanner
+<img width="611" alt="Screenshot 2023-08-18 at 3 18 39 PM" src="https://github.com/Carlintyj/CP2106-Independent-Software-Development-Project-Orbital/assets/102083899/83fbbd5c-bb47-47e8-8ed5-bb6e0af4476e">
+
+### 4. Map
+<img width="470" alt="Screenshot 2023-08-18 at 3 18 48 PM" src="https://github.com/Carlintyj/CP2106-Independent-Software-Development-Project-Orbital/assets/102083899/61f880dd-7647-4900-adb5-777506e1c271">
+
+### 5. Settings
+<img width="626" alt="Screenshot 2023-08-18 at 3 19 07 PM" src="https://github.com/Carlintyj/CP2106-Independent-Software-Development-Project-Orbital/assets/102083899/97e813f3-774f-4e27-8f56-5ef600c10e6c">
+
+### 6. Administration System
+<img width="534" alt="Screenshot 2023-08-18 at 3 19 21 PM" src="https://github.com/Carlintyj/CP2106-Independent-Software-Development-Project-Orbital/assets/102083899/a2cd7bbd-3b0a-43b3-80c1-bda22bbce6cb">
+<img width="529" alt="Screenshot 2023-08-18 at 3 19 29 PM" src="https://github.com/Carlintyj/CP2106-Independent-Software-Development-Project-Orbital/assets/102083899/e3b03e9b-d9fb-4ac3-a607-4d7c96f52f1f">
+
+## Snapshots of Firebase
+<img width="501" alt="Screenshot 2023-08-18 at 3 26 10 PM" src="https://github.com/Carlintyj/CP2106-Independent-Software-Development-Project-Orbital/assets/102083899/06f32a28-fa7f-4253-b1ea-acd2027b14ba">
