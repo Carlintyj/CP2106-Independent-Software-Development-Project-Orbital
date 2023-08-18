@@ -1,5 +1,5 @@
-# CP2106-Independent-Software-Development-Project-Orbital
-Orbital project in 2023
+# CP2106 Independent Software Development Project (Orbital)
+Orbital project in 2023 taken under NUS.
 Orbital provides a platform for students to gain hands-on industrial experience for computing technologies related to students’ own interests. Done in pairs of two, Orbital students propose, design, execute, implement and market their project to peers and faculty. Peer assessment and critique of others’ projects are key components of the courses’ deliverables.
 
 ## About
