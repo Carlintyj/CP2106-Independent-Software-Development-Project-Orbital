@@ -28,5 +28,8 @@ A **FireBase server** that will share a common database across all platforms whi
 - Expo Dev
 - FireBase
 
+## Snapshots of App
+### 1. User Account Authentication
+<img width="620" alt="Screenshot 2023-08-18 at 3 16 04 PM" src="https://github.com/Carlintyj/CP2106-Independent-Software-Development-Project-Orbital/assets/102083899/03a9bfda-453b-4a22-bd76-f7f1411d7bf0">
 
 
